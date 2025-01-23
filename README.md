@@ -1,5 +1,5 @@
 # Anti Debugger Attach
-Anti Attach Technique against User-Mode Debuggers like x64, ollydbg and more.
+Anti Attach Technique against User-Mode Debuggers like x64dbg, ollydbg and more.
 
 ## Features
 - Anti Debugging – blocks debuggers from attaching.
