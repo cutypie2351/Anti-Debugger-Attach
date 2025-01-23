@@ -10,5 +10,5 @@ Anti Attach Technique from User-Mode Debuggers like x64, ollydbg and more.
 - The child process trying to attach as a debugger to the parent process
 - Windows allows only 1 debugger to attach for each process
 - because of that if the child process attached succesfully then app can continue executing 
-- If child process failed to attach the parent process, thats means a debugger already attached it and a MessageBox of "Debugger Detected" appears
+- If child process failed to attach the parent process, its means a debugger already attached it and a MessageBox of "Debugger Detected" appears
 
