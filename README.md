@@ -4,6 +4,7 @@ Anti Attach Technique from User-Mode Debuggers like x64, ollydbg and more.
 ## Features
 - Anti Debugging – blocks debuggers from attaching.
 - Process Protection - A child process that protect the parent process.
+- Notes of every part in the code to understand it better.
 
 ## How It Works
 - Main process starts and creates a child process
